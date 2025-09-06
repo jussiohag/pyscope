@@ -9,7 +9,7 @@ pyscope
 .. image:: https://github.com/macro-consortium/pyscope/blob/main/docs/source/_static/pyscope_logo_white.png
     :alt: pyscope logo
 
-This is the repository for `pyscope <https://pyscope.readthedocs.io/en/latest/>`_,
+This is a personal test repository for `pyscope <https://pyscope.readthedocs.io/en/latest/>`_,
 a pure-Python package for robotic scheduling, operation, and control of small
 optical telescopes.
 
