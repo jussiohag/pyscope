@@ -2,6 +2,10 @@
 pyscope
 *******
 
+# TODO
+		https://stargazerslounge.com/topic/346828-guiding-with-kstarsekosindi/
+
+
 .. container::
 
     |License| |Zenodo| |PyPI Version| |PyPI Python Versions| |PyPI Downloads| |Astropy| |GitHub CI| |Code Coverage| |Documentation Status| |Codespaces Status| |pre-commit| |Black| |isort| |Donate|
